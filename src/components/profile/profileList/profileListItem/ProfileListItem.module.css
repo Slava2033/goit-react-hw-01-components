@@ -1,0 +1,21 @@
+.stats__item{
+  padding: 20px 20px;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  outline: 1px solid rebeccapurple;
+  background-color: rgb(171, 182, 214);
+}
+
+.label{
+  display: block;
+  margin-bottom: 8px;
+  color: grey;
+  font-weight: 500;
+}
+
+.quantity{
+  display: block;
+  color: black;
+  font-weight: 800;
+}

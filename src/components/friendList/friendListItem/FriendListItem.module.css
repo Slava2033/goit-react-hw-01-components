@@ -1,0 +1,25 @@
+.list__item {
+  display: flex;
+  align-items: center;
+  margin: 10px;
+  border: 1px solid grey;
+}
+
+.list__status {
+  display: block;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  margin: 10px;
+}
+
+.list__avatar {
+  margin: 10px;
+  max-width: 100px;
+}
+
+.list__name {
+  margin: 10px;
+  font-size: 27px;
+  font-weight: 700;
+}
